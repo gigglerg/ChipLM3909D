@@ -7,7 +7,7 @@ The schematic was based upon Robs circuit.  A pdf is available [here](https://gi
 
 <img src="lm3909d_schematic.png" width="800px" />
 
-From the schematic I tried to keep everything as small as possible.  Its hard for me to manually solder below 0805 so that is what I stuck to during layout and to keep it small parts are on both sides.
+From the schematic I tried to keep everything as small as possible.  Its hard for me to manually solder below 0805 so that is what I stuck to during layout and to keep it small the parts are on both sides.
 
 <p float="left">
   <img src="lm3909d_top.png" width="300px" />
